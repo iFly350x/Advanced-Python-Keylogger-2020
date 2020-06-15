@@ -1,0 +1,10 @@
+Python 3.6 or higher
+
+
+*** Additional libraries that need to be installed: ***
+
+PIL
+pynput.keyboard
+cv2
+tkinter
+
