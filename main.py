@@ -146,7 +146,7 @@ cv2.imwrite('png4.png', img)
 photo = PhotoImage(file=os.getcwd() + '\png4.png')
 Label(root, image=photo, bg="black").grid(row=2, column=3, sticky=N)
 
-root.title('i-KeyloggerX by Ahmed Negm')
+root.title('i-KeyloggerX ')
 root.configure(background="black")
 root.config(height=500, width=500)
 
